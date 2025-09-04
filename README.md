@@ -1,9 +1,13 @@
-- 👋 Hi, I’m Ferhad Guluzade!
-- 👀 I’m interested in Full-Stack Web Developmnent!
-- 🌱 I’m currently learning Front-end Development.
-- 📫 How to reach me: farhadmedia20@gmail.com .
+# 👋 Hi, I’m Ferhad Guluzade  
 
-<!---
-ferhadguluzade/ferhadguluzade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Computer Science undergraduate at **Baku State University**  
+- 🌐 Interested in **Full-Stack Development**, with a growing focus on **Front-End** (HTML, CSS, JavaScript, Responsive Design)  
+- 🧩 Learning and practicing **algorithms, problem-solving, and AI concepts**  
+- 🚀 Exploring **Python, Java, and C++** through academic projects and personal studies  
+- 📚 Aiming to build a strong foundation in **algorithms, machine learning, and web technologies**  
+- 📫 Reach me at: **farhadmedia20@gmail.com**  
+
+---
+
+✨ This is my GitHub profile repository — here I share my learning journey and projects in web development and computer science.  
+
